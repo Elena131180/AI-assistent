@@ -6,6 +6,10 @@
 > **Автор**: Елена  
 > **Канал доставки**: 📱 Telegram-бот
 
+ссылка на проект
+
+[скриншот 1] https://github.com/Elena131180/AI-assistent/blob/main/Screenshot_1.jpg?raw=true
+[скриншот 2] https://github.com/Elena131180/AI-assistent/blob/main/Screenshot_2.jpg?raw=true
 ---
 
 ## 📋 Оглавление
