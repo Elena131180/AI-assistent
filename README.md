@@ -1,6 +1,6 @@
 # 🤖 ИИ-ассистент: помощник бухгалтера и секретарь
 
-ссылка на проект
+ссылка на проект @Mbuhgaltersekretar_bot
 
 ![скриншот 1](https://github.com/Elena131180/AI-assistent/blob/main/Screenshot_1.jpg?raw=true)
 
