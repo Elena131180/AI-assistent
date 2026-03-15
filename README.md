@@ -1,8 +1,7 @@
 # 🤖 ИИ-ассистент: помощник бухгалтера и секретарь
-
 ссылка на проект
 
-![скриншот 1].(https://github.com/Elena131180/AI-assistent/blob/main/Screenshot_2.jpg).
+![скриншот 1].(https://github.com/Elena131180/AI-assistent/blob/main/Screenshot_2.jpg?raw=true).
 
 > **Статус проекта**: 🟡 В разработке  
 > **Версия документа**: 1.1  
